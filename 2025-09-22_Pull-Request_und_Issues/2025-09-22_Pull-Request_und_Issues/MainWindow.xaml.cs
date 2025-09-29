@@ -8,6 +8,7 @@ namespace _2025_09_22_Pull_Request_und_Issues
         {
             InitializeComponent();
         }
+<<<<<<< HEAD
 
         private void AddTodo(object sender, RoutedEventArgs e)
         {
@@ -22,5 +23,8 @@ namespace _2025_09_22_Pull_Request_und_Issues
                 MessageBox.Show("Bitte geben Sie einen ToDo-Eintrag ein.", "Eingabe leer", MessageBoxButton.OK, MessageBoxImage.Warning);
             }
         }
+=======
+        // Kommentar TEST
+>>>>>>> Nikoll
     }
 }
